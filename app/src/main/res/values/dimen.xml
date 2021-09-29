@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ccNumberTopMargin">32dp</dimen>
+    <dimen name="topMargin">22dp</dimen>
+    <dimen name="startMargin1">16dp</dimen>
+    <dimen name="startMargin2">8dp</dimen>
+    <dimen name="endMargin1">8dp</dimen>
+    <dimen name="endMargin2">16dp</dimen>
+    <dimen name="paymentButtonTopMargin">28dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CC Number</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="security_code">Security Code</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="card_number">Card Number</string>
+    <string name="submit_payment">Submit Payment</string>
+</resources>
